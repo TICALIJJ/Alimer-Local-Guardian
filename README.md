@@ -13,7 +13,7 @@ APK actual: [`LocalGuardian.apk`](https://raw.githubusercontent.com/TICALIJJ/Ali
 
 | Dato | Valor |
 |---|---|
-| Versión |  |
+| Versión | 0.7.0 |
 | Paquete | `es.alimer.localguardian` |
 | Android | 8 (API 26) o superior |
 | Probado en | Android 13 (un solo modelo) |
