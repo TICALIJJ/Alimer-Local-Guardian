@@ -13,11 +13,11 @@ APK actual: [`LocalGuardian.apk`](https://raw.githubusercontent.com/TICALIJJ/Ali
 
 | Dato | Valor |
 |---|---|
-| Versión | 0.7.0 |
+| Versión | 0.8.0 |
 | Paquete | `es.alimer.localguardian` |
 | Android | 8 (API 26) o superior |
 | Probado en | Android 13 (un solo modelo) |
-| SHA-256 del APK | `129419de20c247a3afdff7956e1113627761f4628c24acc89e89715ec7b7f1f2` |
+| SHA-256 del APK | `336bf90981d17023626d201c1bd98919a9045b6247a27973f3eb1183be3219c7` |
 | SHA-256 del certificado de firma | `12fa619cbedb975ed8d465f713e67b53806e0599cb823b510fdd882f9c81bd3b` |
 El certificado de firma no cambia entre versiones: un APK firmado con otra clave **no** es un Local Guardian
 legítimo.
